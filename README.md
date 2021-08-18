@@ -38,14 +38,29 @@
 ├── app  
 ├── 📁bin  
 │   └── www 
-├── 📁stylesheets
-├── 📁utils
+├── 📁lib
+│   ├── constants
+│   └── event-name
+├── 📁middleware
+│   ├── upload
+│   └── uploadAfterImage
+├── 📁models
 │   └── constant
-└── 📁routes
-	├── 📁priceRouter
-	├── 📁storeRouter
-	├── 📁userRouter
-    	└── index
+├── 📁routes
+│   ├── 📁...routes
+│   └── index
+├── 📁models
+│   ├── 📁relation
+│   └── ...Models
+├── 📁services
+│   ├── 📁db
+│   └── ...services
+└── 📁socket
+    ├── 📁event
+    ├── 📁handler
+    ├── index
+    ├── init-socket
+    └── socket
 ```
 
   </div>
