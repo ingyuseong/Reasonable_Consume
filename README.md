@@ -112,7 +112,7 @@
 |<img src="https://avatars.githubusercontent.com/u/31193997?v=4" width=300/>|<img src="https://avatars.githubusercontent.com/u/60457112?v=4" width=300/>|<img src="https://avatars.githubusercontent.com/u/70363646?v=4" width=300/>|<img src="https://avatars.githubusercontent.com/u/37537248?v=4" width=300/>|<img src="https://avatars.githubusercontent.com/u/14193000?v=4" width=300/>|<img src="https://avatars.githubusercontent.com/u/43122459?v=4" width=300/>|
 |:-:|:-:|:-:|:-:|:-:|:-:|
 |고동현|김동현|김장영|성인규|이중훈|허승우|
-| [@godonghyun](https://github.com/godonghyun) | [@dooking](https://github.com/dooking) | [@longshiine](https://github.com/longshiine) | [@cakenbake](https://github.com/cakenbake) | [@doublehoon](https://github.com/doublehoon) | [@1214sw](https://github.com/1214sw)
+| [@godonghyun](https://github.com/godonghyun) | [@dooking](https://github.com/dooking) | [@longshiine](https://github.com/longshiine) | [@staycozyboy](https://github.com/staycozyboy) | [@doublehoon](https://github.com/doublehoon) | [@1214sw](https://github.com/1214sw)
 
 ## 🌟 Show your support
 
