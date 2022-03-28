@@ -26,31 +26,6 @@
 - 업소 입장에서는 착한업소가 되기 위해 양질의 서비스를 제공하게 되고, 부가적으로 국가 지원도 받는,
 - 모두가 윈윈하는 경제 활성화 및 물가 안정의 선순환 고리를 형성할 수 있는 서비스입니다.
 
-
-```
-🗃 Project Directory
-📁 Baseline
-├── README.md
-├── 📁 data
-│   ├── ontology.json
-│   ├── slot_meta.json
-│   ├── wos-v1_dev.json
-│   └── wos-v1_train.json
-├── data_utils.py
-├── eval_utils.py
-├── evaluation.py
-├── hard_ensemble.py
-├── inference.py
-├── loss.py
-├── 📁 models
-│   ├── sumbt.py
-│   └── trade.py
-├── preprocessor.py
-├── requirements.txt
-├── train_sumbt.py
-└── train_trade.py
-```
-
 ## 🗂 Directory
 
 <details>
